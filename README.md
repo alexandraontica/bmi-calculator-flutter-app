@@ -1,16 +1,6 @@
-# bmi_calculator
+# BMI Calculator
 
-A new Flutter project.
+This is a cross-platform mobile Flutter application that allows users to input their data (such as height, weight, age, and gender) and calculate their Body Mass Index (BMI) accordingly. The primary focus of this app is on the user interface (UI) design.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="readme images/input_page.jpg" alt="Input Page" width="300"/>
+<img src="readme images/results_page.jpg" alt="Results Page" width="300"/>
