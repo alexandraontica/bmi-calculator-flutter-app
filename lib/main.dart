@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'pages/input_page.dart';
-import 'pages/results_page.dart';
 
 const backgroundColor = Color(0xff0a0e21);
 
@@ -21,11 +20,7 @@ class BMICalculator extends StatelessWidget {
               fontSize: 24,
             )),
       ),
-      initialRoute: '/',
-      routes: {
-        '/': (context) => InputPage(),
-        '/results': (context) => ResultsPage(),
-      },
+      home: InputPage(),
     );
   }
 }
